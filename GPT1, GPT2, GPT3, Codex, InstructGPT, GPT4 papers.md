@@ -1,3 +1,5 @@
+**GPT1 (Improving Language Understanding by Generative Pre-Training)**
+
 https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf?utm_source=substack&utm_medium=email
 
 Note: LSTM refers to long-term short-term memory.
@@ -40,6 +42,13 @@ Evaluations on image captions, transcribed speech, popular fiction, and gov. Rep
 
 4.Classification: Grammatical sentence or not?
 
-https://lh7-rt.googleusercontent.com/docsz/AD_4nXc906UIIKYgr9f0S58raEtnStEuKp7bANRvR1stsmOc6GhZbPQUjwOa8XkKs4m74zw0XZy__EV_u0Y6HpBhnMb8rt8mNlUMLu1z1Od1O6I5QzmDYMz-IdbwHbAxOU06kuEMcb4l?key=jb7E_xzdWMj0SMKuuL5Kh9rw
+![alt text](image.png)
 
 Major goal of Machine Learning research at time was to use unsupervised (pre-)training to boost performance on discriminative tasks. Future developments in unsupervised learning for both natural lang. And other domains.
+
+**GPT 2 (Language Models are Unsupervised Multitask Learners)**
+
+https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf?utm_source=substack&utm_medium=email
+
+Perform downstream tasks in zero-shot setting and perform wide range of tasks in a zero-shot setting.
+
