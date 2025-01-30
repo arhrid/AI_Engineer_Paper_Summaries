@@ -42,7 +42,7 @@ Evaluations on image captions, transcribed speech, popular fiction, and gov. Rep
 
 4.Classification: Grammatical sentence or not?
 
-![alt text](image.png)
+![alt text](GPT1graphs.png)
 
 Major goal of Machine Learning research at time was to use unsupervised (pre-)training to boost performance on discriminative tasks. Future developments in unsupervised learning for both natural lang. And other domains.
 
